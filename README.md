@@ -1,4 +1,5 @@
 <img src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django Logo" width="200px"/>
+
 # Django-coreyschafer
 CoreySchafer tutotial - Full Stack web app with Django
 
