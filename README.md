@@ -13,7 +13,7 @@ pipenv shell
 #### Generate a requirements.txt file from Pipfile.lock
 
 - with pipenv
- ```pipenv requirements.txt```
+ ```pipenv requirements > requirements.txt```
 
 
 #### Run the application
